@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Barbara Amorim Braz
+Matricula: 889078
 
 ## Tela de inspeção com navegador
-
+![alt text](FerramentasDesenvolvedor.png)
 
 ## Tela de projeto no Replit
-
+![alt text](ProjetoReplit.png)
+![alt text](ResultadoNavegador.png)
